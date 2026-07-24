@@ -5,7 +5,7 @@ I'm an infrastructure/network engineer with no prior Terraform or IaC experience
 ## Progress
 
 - [x] `lesson-1` - Terraform basics: providers, resources, the init/plan/apply/destroy workflow, and a first real EC2 instance
-- [ ] `lesson-2` - Custom VPC with public/private subnets
+- [x] `lesson-2` - Custom VPC with public/private subnets
 - [ ] `lesson-3` - Load balancer + autoscaling group
 - [ ] `lesson-4` - Full 3-tier app: ALB -> ECS Fargate -> RDS, modularized
 
