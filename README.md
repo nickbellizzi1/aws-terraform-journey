@@ -19,6 +19,6 @@ Most portfolio repos show a finished result with no visibility into how it got t
 
 Coming from 8+ years of on-prem/hybrid infrastructure and network engineering (MSP environments), currently building out hands-on AWS and Terraform skills to move into a cloud infrastructure role.
 
-## Progess Wins!
+## Progress Wins!
 
 Updated the top level README.md without any assistance. Went through the editing the .md file, git add, git commit, and git push all from memory.
